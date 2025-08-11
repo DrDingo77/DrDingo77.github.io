@@ -1,4 +1,4 @@
-# DrDingo77.github.io
+# 77.github.io
 <html lang="en">
 <head>
     <meta charset="UTF-8">
