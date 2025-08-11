@@ -6,7 +6,7 @@
     <title>Library of Ruina Inspired Website</title>
     <style>
         body {
-            background-color: #292929; /* Dark gray background from library palette */
+            background-color: #292929; /* Dark gray background */
             color: white; /* White text for contrast */
             font-family: Arial, sans-serif;
             margin: 0;
@@ -39,13 +39,9 @@
     </style>
 </head>
 <body>
-    <!-- Top Banner Section with GIF -->
     <div class="banner">
         <img src="https://media.tenor.com/images/placeholder_for_gif_here.gif" alt="W.I.P" />
-        <!-- Replace with a direct GIF URL, e.g., from Tenor: https://media.tenor.com/3CDf9Yb5tZgAAAAC/library-of-ruina.gif (example placeholder) -->
     </div>
-
-    <!-- 10 Image Sections -->
     <div class="image-section">
         <h2>General Works</h2>
         <img src="C:\Users\DrDream\Pictures\LoR\Icon_Sephirah-2_2.png" />
@@ -86,11 +82,8 @@
         <h2>Philosophy</h2>
         <img src="C:\Users\DrDream\Pictures\LoR\Icon_Sephirah-2_11.png" alt="Library of Ruina Image 10" />
     </div>
-
-    <!-- Bottom Banner Section with GIF -->
     <div class="banner">
         <img src="https://media.tenor.com/images/placeholder_for_gif_here.gif" alt="W.I.P" />
-        <!-- Replace with a direct GIF URL, e.g., from Tenor: https://media.tenor.com/3CDf9Yb5tZgAAAAC/library-of-ruina.gif (example placeholder) -->
     </div>
 </body>
 </html>
