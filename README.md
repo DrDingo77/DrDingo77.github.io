@@ -44,43 +44,43 @@
     </div>
     <div class="image-section">
         <h2>General Works</h2>
-        <img src="C:\Users\DrDream\Pictures\LoR\Icon_Sephirah-2_2.png" />
+        <img src="Icon_Sephirah-2_2.png" />
     </div>
     <div class="image-section">
         <h2>History</h2>
-        <img src="C:\Users\DrDream\Pictures\LoR\Icon_Sephirah-2_3.png" />
+        <img src="Icon_Sephirah-2_3.png" />
     </div>
     <div class="image-section">
         <h2>Technological Sciences</h2>
-        <img src="C:\Users\DrDream\Pictures\LoR\Icon_Sephirah-2_4.png" />
+        <img src="Icon_Sephirah-2_4.png" />
     </div>
     <div class="image-section">
         <h2>Art</h2>
-        <img src="C:\Users\DrDream\Pictures\LoR\Icon_Sephirah-2_5.png" alt="Library of Ruina Image 4" />
+        <img src="Icon_Sephirah-2_5.png" />
     </div>
     <div class="image-section">
         <h2>Literature</h2>
-        <img src="C:\Users\DrDream\Pictures\LoR\Icon_Sephirah-2_6.png" alt="Library of Ruina Image 5" />
+        <img src="Icon_Sephirah-2_6.png" />
     </div>
     <div class="image-section">
         <h2>Natural Sciences</h2>
-        <img src="C:\Users\DrDream\Pictures\LoR\Icon_Sephirah-2_7.png" alt="Library of Ruina Image 6" />
+        <img src="Icon_Sephirah-2_7.png" />
     </div>
     <div class="image-section">
         <h2>Language</h2>
-        <img src="C:\Users\DrDream\Pictures\LoR\Icon_Sephirah-2_8.png" alt="Library of Ruina Image 7" />
+        <img src="Icon_Sephirah-2_8.png" />
     </div>
     <div class="image-section">
         <h2>Social Sciences</h2>
-        <img src="C:\Users\DrDream\Pictures\LoR\Icon_Sephirah-2_9.png" alt="Library of Ruina Image 8" />
+        <img src="Icon_Sephirah-2_9.png" />
     </div>
     <div class="image-section">
         <h2>Religion</h2>
-        <img src="C:\Users\DrDream\Pictures\LoR\Icon_Sephirah-2_10.png" alt="Library of Ruina Image 9" />
+        <img src="Icon_Sephirah-2_10.png" />
     </div>
     <div class="image-section">
         <h2>Philosophy</h2>
-        <img src="C:\Users\DrDream\Pictures\LoR\Icon_Sephirah-2_11.png" alt="Library of Ruina Image 10" />
+        <img src="Icon_Sephirah-2_11.png" />
     </div>
     <div class="banner">
         <img src="https://media.tenor.com/images/placeholder_for_gif_here.gif" alt="W.I.P" />
